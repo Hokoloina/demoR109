@@ -1,12 +1,45 @@
 .qwitcher-grypen-regular {
-    font-family: "Qwitcher Grypen", cursive;
-    font-weight: 400;
-    font-style: normal;
-  }
+  font-family: "Qwitcher Grypen", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.qwitcher-grypen-bold {
+  font-family: "Qwitcher Grypen", cursive;
+  font-weight: 1000;
+  font-style: normal;
+}
+
+.updock-regular {
+  font-family: "Updock", cursive;
+  font-weight: 550;
+  font-style: normal;
   
-  .qwitcher-grypen-bold {
-    font-family: "Qwitcher Grypen", cursive;
-    font-weight: 700;
-    font-style: normal;
-  }
   
+}
+
+body {
+
+  background-image: url("fond.webp");
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+}
+
+.playball-regular {
+  font-family: "Playball", cursive;
+  font-weight: 500;
+  font-style: normal;
+  text-align: center;
+  
+}
+
+.titre {
+  color: rgb(223, 84, 160);
+  text-align: center;
+  border-style: double;
+  box-shadow: 10px 5px 5px rgb(175, 112, 136);
+}
+
